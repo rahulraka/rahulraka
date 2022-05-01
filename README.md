@@ -8,11 +8,11 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/rahulraka" target="blank"><img src="https://img.shields.io/twitter/follow/rahulraka?logo=twitter&style=for-the-badge" alt="rahulraka" /></a> </p> -->
 
-- 🔭 I’m currently pursuing **Full-Stack Development At Masai School**
+- 🔭 I’m currently pursuing **Back-End Development At Masai School**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Java Back-End**
  
-- 💬 Ask me about **JavaScript, SQl **
+- 💬 Ask me about **JAVA, Core Java, Javascript, Html, Css, SQL,SpringBoot, SQl **
 
 - 📫 I will be at **ask4rk777@gmail.com**
 
