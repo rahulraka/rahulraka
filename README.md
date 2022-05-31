@@ -1,7 +1,9 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)](https://rahulraka.io)
+![Rahul Kumar](https://user-images.githubusercontent.com/65751330/171229040-a9b54b39-664a-4c32-8a70-f8422020a150.gif)
+
 <h1 align="center">Hello World! 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Java Backend developer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulraka&label=Profile%20views&color=0e75b6&style=flat" alt="rahulraka" /> </p>
@@ -35,6 +37,11 @@
 
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rahulraka&&theme=xcode)](https://github.com/rahulraka)
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulraka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rahulraka" /></p>
 
