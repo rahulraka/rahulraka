@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ask4rk777@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zSQrPOJSk0o-cBCAT4JJxuYwXeyojHV4/view?usp=sharing](https://drive.google.com/file/d/1zSQrPOJSk0o-cBCAT4JJxuYwXeyojHV4/view?usp=sharing)
+- 📄 Know about my experiences https://bit.ly/3PS3AdM
 
 - ⚡ Fun fact **I think I am a in Love with Java.**
 
