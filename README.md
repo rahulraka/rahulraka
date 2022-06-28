@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **ask4rk777@gmail.com**
 
-- 📄 Know about my experiences https://bit.ly/3PS3AdM
+- 📄 Know about my experiences (https://bit.ly/resume-RahulKumar_fw16_140)
 
 - ⚡ Fun fact **I think I am a in Love with Java.**
 
