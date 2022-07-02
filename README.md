@@ -23,6 +23,8 @@
 - 📄 Know about my experiences (https://bit.ly/resume-RahulKumar_fw16_140)
 
 - ⚡ Fun fact **I think I am a in Love with Java.**
+<!--![image](https://user-images.githubusercontent.com/65751330/177010514-1e35604f-3798-4937-84a2-8623bc0aa791.png)-->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
