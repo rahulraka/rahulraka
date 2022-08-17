@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java Backend and Spring.**
 
-- 👨‍💻 All of my projects are available at (https://portfolio-rahulkumar.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://rahulraka.github.io/)
 
 - 📝 You can see my Blogs here [https://medium.com/@ask4rk777](https://medium.com/@ask4rk777)
 
